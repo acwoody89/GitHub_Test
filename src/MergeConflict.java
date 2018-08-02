@@ -9,7 +9,7 @@ public class MergeConflict {
 
 		System.out.println("And my name is KAELAN the great!!!!");
 
-		System.out.println("And my name is KAELAN sssssshhhhmaelan!!!!");
+		System.out.println("And my name is KAELAN shmaelan!!!!");
 
 	}
 
