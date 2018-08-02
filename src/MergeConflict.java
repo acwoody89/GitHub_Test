@@ -5,6 +5,8 @@ public class MergeConflict {
 		// TODO Auto-generated method stub
 		System.out.println("Hello");
 		System.out.println("My name is Alex.");
+		
+		System.out.println("And my name is KAELAN!!!!");
 	}
 
 }
